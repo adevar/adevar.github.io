@@ -1,4 +1,4 @@
-agile
+gagile
 body{padding:0;margin:0;background:#FFF;font-family:'Lora', serif;}
 body a{transition:0.5s all;-webkit-transition:0.5s all;-moz-transition:0.5s all;-o-transition:0.5s all;-ms-transition:0.5s all;text-decoration:none;}
 body a:hover{text-decoration:none;}
@@ -247,7 +247,7 @@ h2.modal-title{color:#212121;font-size:3.3em;margin:0;text-transform:capitalize;
 .social-icons ul li a.fa:hover{color:#3b5998;}
 a.fa.fa-google-plus.icon.icon-border.googleplus:hover{color:#d34836;}
 a.fa.fa-twitter.icon.icon-border.twitter:hover{color:#4099ff;}
-a.fa.fa-dribbble.icon.icon-border.dribbble:hover{color:#ec4a89;}
+a.fa.fa-dribbble.icon.icon-border.dribbble:hover{color:#999;}
 .icon-border::before,
 .icon-border::after{display:block;position:absolute;top:0;left:0;width:100%;height:100%;content:"";}
 .icon-border::before{z-index:1;-webkit-transition:box-shadow 0.3s;-moz-transition:box-shadow 0.3s;-o-transition:box-shadow 0.3s;-ms-transition:box-shadow 0.3s;transition:box-shadow 0.3s;border-radius:50%;}
@@ -257,8 +257,8 @@ a.fa.fa-dribbble.icon.icon-border.dribbble:hover{color:#ec4a89;}
 .icon-border.twitter:hover::before{-webkit-box-shadow:inset 0 0 0 4px #4099ff;-moz-box-shadow:inset 0 0 0 4px #4099ff;-o-box-shadow:inset 0 0 0 4px #4099ff;-ms-box-shadow:inset 0 0 0 4px #4099ff;box-shadow:inset 0 0 0 4px #4099ff;}
 .icon-border.googleplus::before{-webkit-box-shadow:inset 0 0 0 48px #d34836;-moz-box-shadow:inset 0 0 0 48px #d34836;-o-box-shadow:inset 0 0 0 48px #d34836;-ms-box-shadow:inset 0 0 0 48px #d34836;box-shadow:inset 0 0 0 48px #d34836;}
 .icon-border.googleplus:hover::before{-webkit-box-shadow:inset 0 0 0 4px #d34836;-moz-box-shadow:inset 0 0 0 4px #d34836;-o-box-shadow:inset 0 0 0 4px #d34836;-ms-box-shadow:inset 0 0 0 4px #d34836;box-shadow:inset 0 0 0 4px #d34836;}
-.icon-border.dribbble::before{-webkit-box-shadow:inset 0 0 0 48px #ec4a89;-moz-box-shadow:inset 0 0 0 48px #ec4a89;-o-box-shadow:inset 0 0 0 48px #ec4a89;-ms-box-shadow:inset 0 0 0 48px #ec4a89;box-shadow:inset 0 0 0 48px #ec4a89;}
-.icon-border.dribbble:hover::before{-webkit-box-shadow:inset 0 0 0 4px #ec4a89;-moz-box-shadow:inset 0 0 0 4px #ec4a89;-o-box-shadow:inset 0 0 0 4px #ec4a89;-ms-box-shadow:inset 0 0 0 4px #ec4a89;box-shadow:inset 0 0 0 4px #ec4a89;}
+.icon-border.dribbble::before{-webkit-box-shadow:inset 0 0 0 48px #999;-moz-box-shadow:inset 0 0 0 48px #999;-o-box-shadow:inset 0 0 0 48px #999;-ms-box-shadow:inset 0 0 0 48px #999;box-shadow:inset 0 0 0 48px #999;}
+.icon-border.dribbble:hover::before{-webkit-box-shadow:inset 0 0 0 4px #999;-moz-box-shadow:inset 0 0 0 4px #999;-o-box-shadow:inset 0 0 0 4px #999;-ms-box-shadow:inset 0 0 0 4px #999;box-shadow:inset 0 0 0 4px #999;}
 .icon-border.rss::before{-webkit-box-shadow:inset 0 0 0 48px #ee802f;-moz-box-shadow:inset 0 0 0 48px #ee802f;-o-box-shadow:inset 0 0 0 48px #ee802f;-ms-box-shadow:inset 0 0 0 48px #ee802f;box-shadow:inset 0 0 0 48px #ee802f;}
 .icon-border.rss:hover::before{-webkit-box-shadow:inset 0 0 0 4px #ee802f;-moz-box-shadow:inset 0 0 0 4px #ee802f;-o-box-shadow:inset 0 0 0 4px #ee802f;-ms-box-shadow:inset 0 0 0 4px #ee802f;box-shadow:inset 0 0 0 4px #ee802f;}
 #toTop{display:none;text-decoration:none;position:fixed;bottom:3%;right:3%;overflow:hidden;width:32px;height:32px;border:none;text-indent:100%;background:url("../images/move-up.png") no-repeat 0px 0px;}
